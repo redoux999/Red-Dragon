@@ -19,27 +19,26 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
+global.alivemsg = `My name is APUUSY BOT🔥
 My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+212634376248' //Owner Number <<<
+global.owner = ['+212776573954'] //Owner number in aive msg
+global.premium = ['+212776573954'] //Owner Number info
+global.ownernomer = '+212776573954' //Owner Number <<<
 
 global.ownername = 'ᴏᴠᴇʀᴢᴀ²²' //Owner Name
 global.botname = ' ☬𝔞𝔭𝔲𝔰𝔶 𝔟𝔬𝔱' //Bot Name
-
 global.button = 'instagram📍' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://instagram.com/ab6y._/'//Change Your Button's URL
 
 global.region = 'Morocco casablanca' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '☬𝔞𝔭𝔲𝔰𝔶 𝔟𝔬𝔱' //Bot Pacage Name
+global.author = 'ᴏᴠᴇʀᴢᴀ²²' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
-global.sessionName = '𝔞𝔭𝔲𝔰𝔶 𝔟𝔬𝔱' //Session Name!
+global.sessionName = 'Session' //Session Name!
 global.sp = '⭔' //A Charactor
-global.dragonemoji = '🧩' // Menu emoji
+global.dragonemoji = '🥲' // Menu emoji
 global.footer = '©_ᴏᴠᴇʀᴢᴀ.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
